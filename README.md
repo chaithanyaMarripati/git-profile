@@ -3,7 +3,7 @@
 Switches between different git profiles.
 
 Change Github private keys on demand, write a cli tool to do it
-1. Check if the command is running in sudo mode, if not return 1
+1. ~Check if the command is running in sudo mode, if not return 1~
 2. List the available profiles.
 3. Lets user navigate the profile and select the appropriate one.
 4. Should be as if the user has made the actual commits, commits should be signed.
